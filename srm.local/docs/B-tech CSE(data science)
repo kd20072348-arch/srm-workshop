@@ -1,0 +1,232 @@
+# cirriculum 
+
+25. B.Tech. in Computer Science and Engineering (Data Science)
+25. (a) Mission of the Department
+Mission Stmt – 1 To impart knowledge in cutting edge Computer Science and Engineering technologies in par with industrial standards.
+Mission Stmt – 2 To collaborate with renowned academic institutions to uplift innovative research and development in Computer Science and
+Engineering and its allied fields to serve the needs of society
+Mission Stmt – 3 To demonstrate strong communication skills and possess the ability to design computing systems individually as well as part of a
+multidisciplinary teams.
+Mission Stmt – 4 To instill societal, safety, cultural, environmental, and ethical responsibilities in all professional activities
+Mission Stmt – 5 To produce successful Data Science graduates with personal and professional responsibilities and commitment to lifelong learning
+25. (b) Program Educational Objectives (PEO)
+PEO – 1 Graduates will be able to demonstrate their knowledge in technical/managerial roles with right skills and aptitude in software
+industries and R&D sectors
+PEO – 2 Graduates will possess the proficiencies and additional skills in core computer science and engineering discipline in par with industry
+requirements.
+PEO – 3 Graduates will be able to successfully pursue higher education in reputed institutions and also extend their research career.
+PEO – 4 Graduates will be self-empowered solution providers and entrepreneurs in Computer Science and Engineering
+PEO – 5 Graduates will possess the ability to adapt, contribute and innovate new technologies and systems in the key domains of Data
+Science
+25. (c) Mission of the Department to Program Educational Objectives (PEO) Mapping
+ Mission Stmt. - 1 Mission Stmt. - 2 Mission Stmt. - 3 Mission Stmt. - 4 Mission Stmt. - 5
+PEO - 1 3 - - - 1
+PEO - 2 - - 2 - -
+PEO - 3 - 3 3 - -
+PEO - 4 - - - 2 3
+PEO - 5 - 3 3 2 3
+3 – High Correlation, 2 – Medium Correlation, 1 – Low Correlation
+25. (d) Mapping Program Educational Objectives (PEO) to Program Outcomes (PO)
+Program Outcomes (PO) Program Specific
+Outcomes (PSO) 1 2 3 4 5 6 7 8 9 10 11 12 Engineering Knowledge Problem Analysis Design/development of solutions Conduct investigations of complex problems Modern Tool Usage The engineer and society Environment & Sustainability Ethics Individual & Team Work Communication Project Mgt. & Finance Life Long Learning PSO-1 PSO-2 PSO-3
+PEO - 1 3 - - 1 - 2 - 3 2 3 - - 3 3 3
+PEO - 2 - 2 2 - 3 - 3 2 - - - - 3 3 3
+PEO - 3 - 3 3 2 - - - - - 2 - 3 3 3 3
+PEO - 4 - 2 3 - - 3 2 - 2 - 2 2 3 3 3
+PEO - 5 3 - - - 3 3 - 2 - 3 3 3 3 3 3
+3 – High Correlation, 2 – Medium Correlation, 1 – Low Correlation
+PSO – Program Specific Outcomes (PSO)
+PSO - 1 To understand, analyse, design, and develop computing solutions by applying fundamental concepts of computer science and
+engineering.
+PSO - 2 To apply computing principles, skills and practices to develop solutions using logical and reasoning skills for real life problems.
+PSO - 3 Ability to understand the requirements, gather a large amount of data, analyze, utilize the tools to extract insights to increase the
+productivity and efficiency of the business along with better visual representations.
+25. (e) Program Structure: B.Tech. in Computer Science and Engineering (Data Science)
+Humanities & Social Sciences
+including Management Courses (H)
+Course
+Code
+Course
+Title
+Hours /
+Week
+L T P C
+21LEH101T Communicative English 2 1 0 3
+21LEH102T Chinese
+2 1 0 3
+21LEH103T French
+21LEH104T German
+21LEH105T Japanese
+21LEH106T Korean
+21LEH107T Spanish
+21LEH108T Russian
+21GNH101J Philosophy of Engineering 1 0 2 2
+21PDH209T 1 Social Engineering 2 0 0 2
+21GNH401T Behavioral Psychology 2 1 0 3
+Total Credits 13
+Basic Science Courses (B)
+Course
+Code
+Course
+Title
+Hours /
+Week
+L T P C
+21PYB102J Semiconductor Physics and
+Computational Methods 3 1 2 5
+21CYB101J Chemistry 3 1 2 5
+21MAB101T Calculus and Linear Algebra 3 1 0 4
+21MAB102T Advanced Calculus and Complex
+Analysis 3 1 0 4
+21MAB201T Transforms and Boundary Value
+Problems 3 1 0 4
+21MAB301T Probability and Statistics 3 1 0 4
+21MAB302T Discrete Mathematics 3 1 0 4
+21BTB102T Introduction to Computational Biology 2 0 0 2
+Total Credits 32
+Engineering Science Courses (S)
+Course
+Code
+Course
+Title
+Hours /
+Week
+L T P C
+21CSS101J Programming for Problem Solving 3 0 2 4
+21MES101L 1 Basic civil and Mechanical Workshop 0 0 4 2
+21MES102L 1 Engineering Graphics and Design 0 0 4 2
+21EES101T Electrical and Electronics Engineering 3 1 0 4
+21CSS202T Fundamentals of Data Science 3 2 0 5
+21DCS201P 1 Design Thinking and Methodology 1 2 0 3
+21CSS301T Full Stack Development 1 1 0 2
+Total Credits 22
+Professional Core Courses (C)
+Course
+Code
+Course
+Title
+Hours /
+Week
+L T P C
+21CSC101T Object Oriented Design and
+Programming 2 1 0 3
+21CSC201J Data Structures and Algorithms 3 0 2 4
+21CSC202J Operating Systems 3 0 2 4
+21CSC206P 1 Advanced Object Oriented Programming 2 1 0 3
+21CSC204J Design and Analysis of Algorithms 3 0 2 4
+21CSC205P 1 Database Management Systems 3 1 0 4
+21CSC206T Artificial Intelligence 2 1 0 3
+21CSC301T Formal Language and Automata 3 0 0 3
+21CSC302J Computer Networks 3 0 2 4
+21CSC303J Software Engineering and Project
+Management 2 0 2 3
+21CSC304J Compiler Design 2 0 2 3
+21CSC307P 1 Machine Learning for Data Analytics 2 1 0 3
+Total Credits 41
+Non Credit Courses (M)
+Course
+Code
+Course
+Title
+Hours /
+Week
+L T P C
+21PDM101L 1 Professional Skills and Practices 0 0 2
+0
+21PDM102L 1 General Aptitude 0 0 2
+21PDM201L 1 Verbal Reasoning 0 0 2
+21PDM202L 1 Critical and Creative Thinking Skills 0 0 2
+21PDM301L 1 Analytical and Logical Thinking Skills 0 0 2
+21PDM302L 1 Employability Skills and Practices 0 0 2
+21CYM101T 1 Environmental Science 1 0 0 0
+21LEM101T 1 Constitution of India 1 0 0 0
+21LEM102T 1 Universal Human Values – Introduction 1 0 0 0
+21LEM201T 1 Professional Ethics 1 0 0 0
+21LEM202T 1
+Universal Human Values-II:
+Understanding Harmony and Ethical
+Human Conduct
+2 1 0 3
+21LEM301T 1
+Indian Art Form 1 0 0 0
+21LEM302T 1
+Indian Traditional Knowledge 1 0 0 0
+21GNM101L 1 Physical and Mental Health using Yoga
+0 0 2 0 21GNM102L 1 National Service Scheme
+21GNM103L 1 National Cadet Corps
+21GNM104L 1 National Sports Organization
+Total Credits 03
+Open Elective Courses (O)
+(Any 3 courses)
+Course
+Code
+Course
+Title
+Hours /
+Week
+L T P C
+21CSO351T Web Programming 2 1 0 3
+21CSO352T Python Programming 2 1 0 3
+21CSO353T Mobile Application Development 2 1 0 3
+21CSO354T Data Analytics 2 1 0 3
+Total Credits 09
+Project Work, Seminar, Internship in Industry / Higher Technical
+Institutions (P)
+Course
+Code
+Course
+Title
+Hours /
+Week
+L T P C
+21GNP301L 1 Community Connect 0 0 2 1
+21CSP302L 1 Project 0 0 6
+3 21CSP303T 1 MOOC 3 0 0
+21CSP401L Major Project 0 0 30 15
+21CSP402L Major Project 0 0 20 10
+21CSP403L Internship# 0 0 10 5
+Total Credits 19
+Professional Elective Courses (E)
+(Any 8 Courses)
+Course
+Code
+Course
+Title
+Hours /
+Week
+L T P C
+21CSE222T Big Data Tools and Techniques 3 0 0 3
+21CSE224T Computer Architecture 3 0 0 3
+21CSE253T Internet of Things 2 1 0 3
+21CSE251T Digital Image Processing 3 0 0 3
+21CSE321T Data Warehousing and Data Mining 2 1 0 3
+21CSE322T Multivariate Techniques for Data
+Analytics 2 1 0 3
+21CSE323T Marketing Analytics 2 1 0 3
+21CSE356T Natural Language Processing 2 1 0 3
+21CSE359T Information Storage and Management 2 1 0 3
+21CSE325T Applied Social Network Analysis 2 1 0 3
+21CSE326T Artificial Neural Networks 3 0 0 3
+21CSE327T Cloud Computing for Data Analytics 2 1 0 3
+21CSE373T Streaming Analytics 2 1 0 3
+Professional Elective Courses (E)
+Course
+Code
+Course
+Title
+Hours /
+Week
+L T P C
+21CSE421T Business Intelligence and Analytics 2 1 0 3
+21CSE422T Convolutional Neural Networks 2 1 0 3
+21CSE423T Big Data Visualization 2 1 0 3
+21CSE424T Deep Learning for Data Analytics 2 1 0 3
+21CSE425T Advanced Machine Learning 2 1 0 3
+21CSE426T Financial Machine Learning 2 1 0 3
+21CSE427T Augmented and Virtual Reality 2 1 0 3
+21CSE428T Healthcare Analytics 2 1 0 3
+21CSE429T Data Science for Internet of Things 2 1 0 3
+21CSE430T Automatic Speech Recognition 2 1 0 3
+21CSE447T Robot Motion Planning 2 1 0 3
+21CSE448T Bio-inspired Computing and Fuzzy Logic 2 1 0 3
+21CSE449T Risk Analytics
